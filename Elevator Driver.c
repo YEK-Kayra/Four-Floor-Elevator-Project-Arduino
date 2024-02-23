@@ -2,7 +2,6 @@
 
 LiquidCrystal lcd{8,7,6,5,4,3};   ///lcd ekranýmýzýn baðlý olduðu pinleri sýrasýyla tanýtýrýz.
 
-
 const int but1=9;                                                                                   /////PROGRAM SAHÝBÝ =YUNUS EMRE KAYRA 
 const int but2=10;                                                                                  /////PROGRAMI GELÝÞTÝREN=YUNUS EMRE KAYRA
 const int but3=53;     
